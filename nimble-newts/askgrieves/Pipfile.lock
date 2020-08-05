@@ -56,11 +56,11 @@
         },
         "chatbotai": {
             "hashes": [
-                "sha256:a0f4d2e426c5773b8351ef1056b4191ba9ae8c1f744a98c9c1a44c0f86f5379c",
-                "sha256:c82bca4efbb529603688eccaf7c5a7b5998774fd199457aa4101f4678e4f8124"
+                "sha256:cc958ffbcadcd4beda1eb8292e8cb9867a8fc7a44eb3eec5ec93c414915b7c42",
+                "sha256:f8ef666226fef1df49270c3b9fb4676e84a3c0bd21eae109b1463beef9308078"
             ],
             "index": "pypi",
-            "version": "==0.2.1.2"
+            "version": "==0.2.2.1"
         },
         "colorama": {
             "hashes": [
@@ -72,11 +72,11 @@
         },
         "django": {
             "hashes": [
-                "sha256:31a5fbbea5fc71c99e288ec0b2f00302a0a92c44b13ede80b73a6a4d6d205582",
-                "sha256:5457fc953ec560c5521b41fad9e6734a4668b7ba205832191bbdff40ec61073c"
+                "sha256:1a63f5bb6ff4d7c42f62a519edc2adbb37f9b78068a5a862beff858b68e3dc8b",
+                "sha256:2d390268a13c655c97e0e2ede9d117007996db692c1bb93eabebd4fb7ea7012b"
             ],
             "index": "pypi",
-            "version": "==3.0.8"
+            "version": "==3.1"
         },
         "django-chatbot": {
             "hashes": [
