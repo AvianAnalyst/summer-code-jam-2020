@@ -16,8 +16,10 @@ Including another URLconf
 from chatbot import views
 from django.contrib import admin
 from django.urls import path
+from django.views import debug
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.test, name='home')
+    path('', debug.default_urlconf),
+    path('chat/', views.chat),
 ]
